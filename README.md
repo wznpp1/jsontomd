@@ -1,42 +1,20 @@
+# You do a web search on your phone using the {i}surf the net and read a bit{/i} action in your room.
 
-# 事件: 爱丽丝到达岛上。
 
 
-![Arrival](file:///E:/games/renpy2/001/003/game/images/events/Alice/Alice_event_arrive1.jpg)
-![Arrival](file:///E:/games/renpy2/001/003/game/images/events/Alice/Alice_event_arrive2.jpg)
-
-## name: Arrival
+## name: bluewolf_bikini_fashion
 
 ### 描述
 
-爱丽丝到达岛上。
+### You do a web search on your phone using the {i}surf the net and read a bit{/i} action in your room.
 
 ### 要求
 
-爱丽丝到达岛上。可以是自动的或者你邀请了她。
+### The option to talk about her modeling career only comes up the second time in the sauna or later. Don't sneak in on her.
 
 ### 触发条件
 
-你去你的房间或接待处。
+### You talk with Yvette in the sauna and she tells you about her bikini photo shoot for {i}bluewolf{/i}.
 
 
-
-# 事件: 爱丽丝到达岛上。
-
-
-![Arrival](file:///E:/games/renpy2/001/003/game/images/events/Alice/Alice_event_arrive1.jpg)
-![Arrival](file:///E:/games/renpy2/001/003/game/images/events/Alice/Alice_event_arrive2.jpg)
-
-## name: Arrival
-
-### 描述
-
-爱丽丝到达岛上。
-
-### 要求
-
-爱丽丝到达岛上。可以是自动的或者你邀请了她。
-
-### 触发条件
-
-你去你的房间或接待处。
+*****************************************************************************
