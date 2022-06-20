@@ -1,10 +1,8 @@
 # You watch Alice doing pull-ups.
 
-![](https://example.com/scenes/Alice/Alice_workout_pullups0_swim0.jpg "Workout_pullups")
-
-![](https://example.com/scenes/Alice/Alice_workout_pullups1_swim0.jpg "Workout_pullups")
-
-![](https://example.com/scenes/Alice/Alice_workout_pullups2_swim0.jpg "Workout_pullups")
+![Workout_pullups](https://example.com/scenes/Alice/Alice_workout_pullups0_swim0.jpg)
+![Workout_pullups](https://example.com/scenes/Alice/Alice_workout_pullups1_swim0.jpg)
+![Workout_pullups](https://example.com/scenes/Alice/Alice_workout_pullups2_swim0.jpg)
 
 
 ## name: Workout_pullups
@@ -22,13 +20,10 @@
 
 # You watch Alice during her Yoga exercises.
 
-![](https://example.com/scenes/Alice/Alice_workout_aerobics0_swim0.jpg "Workout_aerobics")
-
-![](https://example.com/scenes/Alice/Alice_workout_aerobics1_swim0.jpg "Workout_aerobics")
-
-![](https://example.com/scenes/Alice/Alice_workout_aerobics2_swim0.jpg "Workout_aerobics")
-
-![](https://example.com/scenes/Alice/Alice_workout_aerobics3_swim0.jpg "Workout_aerobics")
+![Workout_aerobics](https://example.com/scenes/Alice/Alice_workout_aerobics0_swim0.jpg)
+![Workout_aerobics](https://example.com/scenes/Alice/Alice_workout_aerobics1_swim0.jpg)
+![Workout_aerobics](https://example.com/scenes/Alice/Alice_workout_aerobics2_swim0.jpg)
+![Workout_aerobics](https://example.com/scenes/Alice/Alice_workout_aerobics3_swim0.jpg)
 
 
 ## name: Workout_aerobics
@@ -46,11 +41,9 @@
 
 # You help Alice doing weight lifting.
 
-![](https://example.com/scenes/Alice/Alice_workout_weightlifting0_swim0.jpg "Workout_weight_lifting")
-
-![](https://example.com/scenes/Alice/Alice_workout_weightlifting1_swim0.jpg "Workout_weight_lifting")
-
-![](https://example.com/scenes/Alice/Alice_workout_weightlifting2_swim0.jpg "Workout_weight_lifting")
+![Workout_weight_lifting](https://example.com/scenes/Alice/Alice_workout_weightlifting0_swim0.jpg)
+![Workout_weight_lifting](https://example.com/scenes/Alice/Alice_workout_weightlifting1_swim0.jpg)
+![Workout_weight_lifting](https://example.com/scenes/Alice/Alice_workout_weightlifting2_swim0.jpg)
 
 
 ## name: Workout_weight_lifting
@@ -70,11 +63,9 @@
 
 # Alice working out doing pecs training.
 
-![](https://example.com/scenes/Alice/Alice_workout_pecs0_swim0.jpg "Workout_pecs")
-
-![](https://example.com/scenes/Alice/Alice_workout_pecs1_swim0.jpg "Workout_pecs")
-
-![](https://example.com/scenes/Alice/Alice_workout_pecs2_swim0.jpg "Workout_pecs")
+![Workout_pecs](https://example.com/scenes/Alice/Alice_workout_pecs0_swim0.jpg)
+![Workout_pecs](https://example.com/scenes/Alice/Alice_workout_pecs1_swim0.jpg)
+![Workout_pecs](https://example.com/scenes/Alice/Alice_workout_pecs2_swim0.jpg)
 
 
 ## name: Workout_pecs
@@ -92,13 +83,10 @@
 
 # You take a walk on the beach with Alice and take a closer look at her.
 
-![](https://example.com/scenes/Alice/beach/Alice_beach_walk0_swim1.webp "Beach_walk")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_walk1_swim1.webp "Beach_walk")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_walk2_swim1.webp "Beach_walk")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_walk3_swim1.webp "Beach_walk")
+![Beach_walk](https://example.com/scenes/Alice/beach/Alice_beach_walk0_swim1.webp)
+![Beach_walk](https://example.com/scenes/Alice/beach/Alice_beach_walk1_swim1.webp)
+![Beach_walk](https://example.com/scenes/Alice/beach/Alice_beach_walk2_swim1.webp)
+![Beach_walk](https://example.com/scenes/Alice/beach/Alice_beach_walk3_swim1.webp)
 
 
 ## name: Beach_walk
@@ -116,15 +104,11 @@
 
 # Alice poses for you at the beach.
 
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose0_swim2.webp "Beach_pose")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose1_swim2.webp "Beach_pose")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_swim2.webp "Beach_pose")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose3_swim2.webp "Beach_pose")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose4_swim2.webp "Beach_pose")
+![Beach_pose](https://example.com/scenes/Alice/beach/Alice_beach_pose0_swim2.webp)
+![Beach_pose](https://example.com/scenes/Alice/beach/Alice_beach_pose1_swim2.webp)
+![Beach_pose](https://example.com/scenes/Alice/beach/Alice_beach_pose2_swim2.webp)
+![Beach_pose](https://example.com/scenes/Alice/beach/Alice_beach_pose3_swim2.webp)
+![Beach_pose](https://example.com/scenes/Alice/beach/Alice_beach_pose4_swim2.webp)
 
 
 ## name: Beach_pose
@@ -146,39 +130,23 @@
 
 # Alice poses for you at the beach and teases you until you get hard.
 
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_0_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_1_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_2_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_3_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_4_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_5_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_6_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_7_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_8_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_9_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_10_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_11_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_12_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_13_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_14_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_15_swim1.webp "Beach_pose2")
-
-![](https://example.com/scenes/Alice/beach/Alice_beach_pose2_16_swim1.webp "Beach_pose2")
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_0_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_1_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_2_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_3_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_4_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_5_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_6_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_7_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_8_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_9_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_10_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_11_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_12_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_13_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_14_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_15_swim1.webp)
+![Beach_pose2](https://example.com/scenes/Alice/beach/Alice_beach_pose2_16_swim1.webp)
 
 
 ## name: Beach_pose2
@@ -200,17 +168,12 @@
 
 # You play with Alice in the pool.
 
-![](https://example.com/scenes/Alice/Alice_pool_play0_swim0.jpg "Pool_play")
-
-![](https://example.com/scenes/Alice/Alice_pool_play1_swim0.jpg "Pool_play")
-
-![](https://example.com/scenes/Alice/Alice_pool_play2_swim0.jpg "Pool_play")
-
-![](https://example.com/scenes/Alice/Alice_pool_play3_swim0.jpg "Pool_play")
-
-![](https://example.com/scenes/Alice/Alice_pool_play4_swim0.jpg "Pool_play")
-
-![](https://example.com/scenes/Alice/Alice_pool_play5_swim0.jpg "Pool_play")
+![Pool_play](https://example.com/scenes/Alice/Alice_pool_play0_swim0.jpg)
+![Pool_play](https://example.com/scenes/Alice/Alice_pool_play1_swim0.jpg)
+![Pool_play](https://example.com/scenes/Alice/Alice_pool_play2_swim0.jpg)
+![Pool_play](https://example.com/scenes/Alice/Alice_pool_play3_swim0.jpg)
+![Pool_play](https://example.com/scenes/Alice/Alice_pool_play4_swim0.jpg)
+![Pool_play](https://example.com/scenes/Alice/Alice_pool_play5_swim0.jpg)
 
 
 ## name: Pool_play
@@ -315,17 +278,12 @@
 
 # Alice pole dances for you in the night bar.
 
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance0.jpg "Nightbar_poledance")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance1.jpg "Nightbar_poledance")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance2.jpg "Nightbar_poledance")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance3.jpg "Nightbar_poledance")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance4.jpg "Nightbar_poledance")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance5.jpg "Nightbar_poledance")
+![Nightbar_poledance](https://example.com/scenes/Alice/Alice_nightbar_poledance0.jpg)
+![Nightbar_poledance](https://example.com/scenes/Alice/Alice_nightbar_poledance1.jpg)
+![Nightbar_poledance](https://example.com/scenes/Alice/Alice_nightbar_poledance2.jpg)
+![Nightbar_poledance](https://example.com/scenes/Alice/Alice_nightbar_poledance3.jpg)
+![Nightbar_poledance](https://example.com/scenes/Alice/Alice_nightbar_poledance4.jpg)
+![Nightbar_poledance](https://example.com/scenes/Alice/Alice_nightbar_poledance5.jpg)
 
 
 ## name: Nightbar_poledance
@@ -345,19 +303,13 @@
 
 # Alice pole dances for you with private pole dance. Hint: Affection, lust and the right answer.
 
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex0.jpg "Nightbar_poledance_extras1")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex1.jpg "Nightbar_poledance_extras1")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex2.jpg "Nightbar_poledance_extras1")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex3.jpg "Nightbar_poledance_extras1")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex4.jpg "Nightbar_poledance_extras1")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex5.jpg "Nightbar_poledance_extras1")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex6.jpg "Nightbar_poledance_extras1")
+![Nightbar_poledance_extras1](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex0.jpg)
+![Nightbar_poledance_extras1](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex1.jpg)
+![Nightbar_poledance_extras1](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex2.jpg)
+![Nightbar_poledance_extras1](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex3.jpg)
+![Nightbar_poledance_extras1](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex4.jpg)
+![Nightbar_poledance_extras1](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex5.jpg)
+![Nightbar_poledance_extras1](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex6.jpg)
 
 
 ## name: Nightbar_poledance_extras1
@@ -375,25 +327,16 @@
 
 # Alice pole dances for you with sex. Hint: Affection, lust and the right answer.
 
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex0.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex1.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex2.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex3.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex4.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex5.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex6.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex7.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex8.jpg "Nightbar_poledance_extras2")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex9.jpg "Nightbar_poledance_extras2")
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex0.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex1.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex2.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex3.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex4.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex5.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex6.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex7.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex8.jpg)
+![Nightbar_poledance_extras2](https://example.com/scenes/Alice/Alice_nightbar_poledance_sex9.jpg)
 
 
 ## name: Nightbar_poledance_extras2
@@ -411,9 +354,8 @@
 
 # Alice has a drink with you at the night bar.
 
-![](https://example.com/scenes/Alice/Alice_nightbar_drink0_night0.jpg "Nightbar_drink")
-
-![](https://example.com/scenes/Alice/Alice_nightbar_drink1_night0.jpg "Nightbar_drink")
+![Nightbar_drink](https://example.com/scenes/Alice/Alice_nightbar_drink0_night0.jpg)
+![Nightbar_drink](https://example.com/scenes/Alice/Alice_nightbar_drink1_night0.jpg)
 
 
 ## name: Nightbar_drink
@@ -448,19 +390,13 @@
 
 # You visit Alice in her room where she shows off the red underwear you bought for her.
 
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear0.webp "Visit_lingerie1")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear1.webp "Visit_lingerie1")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear2.webp "Visit_lingerie1")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear3.webp "Visit_lingerie1")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear4.webp "Visit_lingerie1")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear5.webp "Visit_lingerie1")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear6.webp "Visit_lingerie1")
+![Visit_lingerie1](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear0.webp)
+![Visit_lingerie1](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear1.webp)
+![Visit_lingerie1](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear2.webp)
+![Visit_lingerie1](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear3.webp)
+![Visit_lingerie1](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear4.webp)
+![Visit_lingerie1](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear5.webp)
+![Visit_lingerie1](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear6.webp)
 
 
 ## name: Visit_lingerie1
@@ -482,53 +418,30 @@
 
 # You visit Alice in her room where she teases and titfucks you, wearing the red lingerie you bought her.
 
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear0.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear1.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear2.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear3.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear4.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear5.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear6.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear7.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear8.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear9.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear10.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear11.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear12.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear13.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear14.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear15.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear16.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear17.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear18.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear19.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear20.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear21.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear22.webp "Visit_lingerie1_recurring")
-
-![](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear23.webp "Visit_lingerie1_recurring")
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear0.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear1.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear2.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear3.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear4.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear5.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear6.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear7.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear8.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear9.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear10.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear11.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear12.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear13.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear14.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear15.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear16.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear17.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear18.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear19.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear20.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear21.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear22.webp)
+![Visit_lingerie1_recurring](https://example.com/scenes/Alice/visit/Alice_visit_red_underwear23.webp)
 
 
 ## name: Visit_lingerie1_recurring
@@ -552,13 +465,10 @@ Chances of the scene to trigger are 50%.
 # You visit your doctor Alice to treat a sperm congestion.
 Hint: No sex for a few days.
 
-![](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation0.jpg "Doctor_sperm_congestion")
-
-![](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation1.jpg "Doctor_sperm_congestion")
-
-![](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation2.jpg "Doctor_sperm_congestion")
-
-![](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation3.jpg "Doctor_sperm_congestion")
+![Doctor_sperm_congestion](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation0.jpg)
+![Doctor_sperm_congestion](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation1.jpg)
+![Doctor_sperm_congestion](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation2.jpg)
+![Doctor_sperm_congestion](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation3.jpg)
 
 
 ## name: Doctor_sperm_congestion
@@ -578,11 +488,9 @@ Hint: No sex for a few days.
 # You visit your doctor Alice to treat a sperm congestion (you hold out until the end).
 Hint: No sex for a few days and very high endurance.
 
-![](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation0.jpg "Doctor_sperm_congestion_til_end")
-
-![](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation1.jpg "Doctor_sperm_congestion_til_end")
-
-![](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation2.jpg "Doctor_sperm_congestion_til_end")
+![Doctor_sperm_congestion_til_end](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation0.jpg)
+![Doctor_sperm_congestion_til_end](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation1.jpg)
+![Doctor_sperm_congestion_til_end](https://example.com/scenes/Alice/Alice_doctor_no_ejaculation2.jpg)
 
 
 ## name: Doctor_sperm_congestion_til_end
